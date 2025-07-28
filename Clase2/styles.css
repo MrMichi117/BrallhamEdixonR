@@ -1,0 +1,35 @@
+p{
+    color: red;
+    font-size: 50mpx;
+}
+#CAJA1{
+    background-color:blue;
+    height: 50px;
+    width: 50px;
+    display: inline-block;
+    
+}
+#CAJA2{
+    background-color: red;
+     height: 50px;
+    width: 50px;
+    display: inline-block;
+}
+#CAJA3{
+    background-color:blue;
+    height: 50px;
+    width: 50px;
+    display: block;
+    
+}
+#CAJA4{
+    background-color: red;
+     height: 50px;
+    width: 50px;
+    display: block;
+}
+.borde{
+    
+    border: 15px solid  black;
+    
+}
