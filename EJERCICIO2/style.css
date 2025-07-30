@@ -7,7 +7,7 @@
 #CuadroGrande {
     width: 100vw;
     height: 100vw;
-    background-color: black;
+    background-color: rgb(227, 124, 124);
     display: flex;
     align-items: normal;
     justify-content: center;
